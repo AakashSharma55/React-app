@@ -1,0 +1,8 @@
+site_name: "React-app"
+site_description: "First react app"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
